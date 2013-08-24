@@ -1,8 +1,9 @@
 Changes for Devel-Main:
 
-0.005
+0.005 2013-08-24
  - Added [GithubMeta] to dist.ini so github repo details will be in metadata
  - Made link to BDFY's article a L<> link and downcased his name :-)
+ - Thanks to TOBYINK and NEILB for the above!
 
 0.004 2013-08-23
  - Reformatted Changes file
