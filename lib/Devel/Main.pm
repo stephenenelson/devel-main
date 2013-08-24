@@ -108,6 +108,7 @@ Finally, you can change the name of the subroutine to call the main routine via 
 
 =head1 CREDITS
 
-This module was inspired by Brian D. Foy's article "Five Ways to Improve Your Perl Programming" (http://www.onlamp.com/2007/04/12/five-ways-to-improve-your-perl-programming.html).
+This module was inspired by brian d foy's article
+L<Five Ways to Improve Your Perl Programming|http://www.onlamp.com/2007/04/12/five-ways-to-improve-your-perl-programming.html>.
 
 =cut
