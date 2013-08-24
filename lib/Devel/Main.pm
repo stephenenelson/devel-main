@@ -4,7 +4,7 @@ use warnings;
 
 package Devel::Main;
 
-our $VERSION = 0.004;
+our $VERSION = 0.005;
 
 sub import {
     my $class  = shift;
